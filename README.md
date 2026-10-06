@@ -2,6 +2,12 @@
 
 Atividade da disciplina de Computer Science (1CC). Base simulada com 60 consumidores e três atributos: consumo mensal (kWh), demanda máxima (kW) e percentual do consumo entre 22h e 6h.
 
+
+| Integrante |
+|---|
+| Victor Vidigal RM 571318 |
+| Gabriel Savoy RM 568991 |
+
 ## Conteúdo
 
 | Arquivo | Descrição |
